@@ -1,0 +1,69 @@
+mainfunctionlist.pbi: \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stddef.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\mfcv520.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\reset.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\timer.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Mid\fingerprint\fingerprint.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Mid\fingerprint\..\..\App\fingerprint_app.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\App\zb_command.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Mid\ncp\ncp.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\uart.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\adc.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\audio.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\tsm12.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\sleep.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\leddisplay.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\getpassword.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\exti.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\defaultdevicecode.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\eeprom.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\drivermotor.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\Softwaretimer.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\delay.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\managerpower.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\definepin.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\define.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\clock.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_it.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdbool.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_wwdg.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_wfe.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_usart.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_tim5.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_tim4.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_tim3.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_tim2.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_tim1.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_syscfg.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_spi.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_rtc.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_rst.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_pwr.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_lcd.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_iwdg.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_itc.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_irtim.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_i2c.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_gpio.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_flash.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_exti.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_dma.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_dac.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_comp.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_clk.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_beep.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_aes.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_adc.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_ST\inc\stm8l15x_conf.h \
+  D:\Project\Code\DOORLOCKVER1.9\Project\..\Driver_User\inc\mainfunctionlist.h \
+  D:\Project\Code\DOORLOCKVER1.9\Driver_User\src\mainfunctionlist.c
