@@ -50,7 +50,7 @@ int main(void)
 
 void Function_Init(void)
 {
-    //delay_ms(100);
+    delay_ms(100);
     
     RTC_Config();
 
